@@ -23,6 +23,7 @@ Quick tips on using Emmet and linters to speed up your coding process.
 
 ## 🌐 Connect & Read:
 Full Article: Read it on SyntaxFlow
+https://syntaxflow.hashnode.dev/
 
 ### Let's Discuss: 
 I’d love to hear your thoughts on the comments section! What’s one HTML tag you think is underrated?
